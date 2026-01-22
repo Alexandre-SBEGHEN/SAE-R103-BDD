@@ -1,2 +1,3 @@
-# SAE-R103-BDD
-Création d'une base de données en partant du MCD puis en allant vers le MLD pour finalement aboutir au MPD
+# BUT-SAE1.04-Tenrac
+
+Création d'une base de données en partant du MCD pour aller vers le MLD.
